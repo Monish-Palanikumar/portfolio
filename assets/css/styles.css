@@ -262,16 +262,27 @@ img {
 .home__social-icon {
 	font-size: 1.25rem;
 	color: var(--first-color);
+	transition: .4s;
 }
 .home__social-icon:hover {
 	color: var(--first-color-alt);
+	transform: translateY(.2rem);
 }
 .home__blob {
 	width: 220px;
 	fill: var(--first-color);
+	transition: .5s;
 }
 .home__blob-img {
 	width: 180px;
+	transition: .5s;
+}
+.home__blob:hover{
+	transform: translateX(1rem);
+	transform: translateY(-1rem);
+}
+.home__blob-img:hover{
+	transform: translateX(1rem);
 }
 .home__data {
 	grid-column: 1/3;
