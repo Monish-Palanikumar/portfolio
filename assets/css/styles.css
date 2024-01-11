@@ -617,7 +617,8 @@ img {
 
 .qualification__subtitle {
      display: inline-block;
-     font-size: var(--small-font-size);
+     font-size: var(--normal-font-size);
+     font-weight: var(--font-semi-bold);
      margin-bottom: var(--mb-1);
 }
 
