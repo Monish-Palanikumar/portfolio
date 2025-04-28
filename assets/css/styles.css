@@ -544,6 +544,22 @@ img {
      width: 85%;
 }
 
+.skills__aws {
+     width: 80%
+}
+
+.skills__micro {
+     width: 70%;
+}
+
+.skills__rest {
+     width: 80%;
+}
+
+.skills__kafka {
+     width: 40%;
+}
+
 .skills__mysql {
      width: 80%;
 }
