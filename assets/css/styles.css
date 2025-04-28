@@ -544,6 +544,10 @@ img {
      width: 85%;
 }
 
+.skills__mysql {
+     width: 80%;
+}
+
 .skills__aws {
      width: 80%
 }
@@ -560,11 +564,7 @@ img {
      width: 40%;
 }
 
-.skills__mysql {
-     width: 80%;
-}
-
-.skills__pentest {
+/* .skills__pentest {
      width: 80%;
 }
 
@@ -582,7 +582,7 @@ img {
 
 .skills__sysadmin {
      width: 70%;
-}
+} */
 
 .skills__close .skills__list {
      height: 0;
