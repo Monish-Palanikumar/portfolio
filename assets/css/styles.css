@@ -532,23 +532,39 @@ img {
      width: 80%;
 }
 
-.skills__express {
-     width: 90%;
+.skills__java {
+     width: 85%;
 }
 
-.skills__php {
+.skills__mvc {
      width: 50%;
 }
 
-.skills__mongo {
-     width: 70%;
+.skills__boot {
+     width: 85%;
 }
 
 .skills__mysql {
      width: 80%;
 }
 
-.skills__pentest {
+.skills__aws {
+     width: 80%
+}
+
+.skills__micro {
+     width: 70%;
+}
+
+.skills__rest {
+     width: 80%;
+}
+
+.skills__kafka {
+     width: 40%;
+}
+
+/* .skills__pentest {
      width: 80%;
 }
 
@@ -566,6 +582,22 @@ img {
 
 .skills__sysadmin {
      width: 70%;
+} */
+
+.skills__linux {
+     width: 60%;
+}
+
+.skills__unit {
+     width: 50%;
+}
+
+.skills__cicd {
+     width: 50%;
+}
+
+.skills__agile {
+     width: 60%;
 }
 
 .skills__close .skills__list {
@@ -1159,6 +1191,17 @@ img {
 
      .footer__copy {
           margin-top: 4.5rem;
+     }
+     .skills__close .skills__list {
+          height: max-content;
+          margin-bottom: var(--mb-2-5);
+     }
+     .skills__open .skills__list {
+          height: max-content;
+          margin-bottom: var(--mb-2-5);
+     }
+     .skills__arrow {
+          display: none;
      }
 }
 
