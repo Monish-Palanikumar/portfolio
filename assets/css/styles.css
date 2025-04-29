@@ -584,6 +584,22 @@ img {
      width: 70%;
 } */
 
+.skills__linux {
+     width: 60%;
+}
+
+.skills__unit {
+     width: 50%;
+}
+
+.skills__cicd {
+     width: 50%;
+}
+
+.skills__agile {
+     width: 60%;
+}
+
 .skills__close .skills__list {
      height: 0;
      overflow: hidden;
