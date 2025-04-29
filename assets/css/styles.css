@@ -1176,6 +1176,17 @@ img {
      .footer__copy {
           margin-top: 4.5rem;
      }
+     .skills__close .skills__list {
+          height: max-content;
+          margin-bottom: var(--mb-2-5);
+     }
+     .skills__open .skills__list {
+          height: max-content;
+          margin-bottom: var(--mb-2-5);
+     }
+     .skills__arrow {
+          display: none;
+     }
 }
 
 /* For large devices */
